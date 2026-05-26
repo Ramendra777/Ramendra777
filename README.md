@@ -43,7 +43,7 @@ open_to: Full-time SWE / Backend / AI roles
 <tr>
 <td width="50%">
 
-### Wingify &nbsp; `Sep 2025 – Mar 2026`
+### Wingify &nbsp; `May 2025 – April 2026`
 **Software Engineer** · Delhi, India
 
 > Led **Insights-Interconnectivity** — designed the full feature from scratch connecting A/B testing with session recordings, funnels & metrics
@@ -56,8 +56,8 @@ open_to: Full-time SWE / Backend / AI roles
 </td>
 <td width="50%">
 
-### Lawvriksh &nbsp; `May 2025 – Aug 2025`
-**Software Developer** · Remote
+### Lawvriksh &nbsp; `Jan 2025 – April 2025`
+**Frontend Developer** · Remote
 
 > Built an AI-powered rich-text blog editor using LLMs + FAISS vector search that serves real-time SEO, compliance & plagiarism scores
 
