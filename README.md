@@ -43,28 +43,34 @@ open_to: Full-time SWE / Backend / AI roles
 <tr>
 <td width="50%">
 
-### Wingify &nbsp; `May 2025 – April 2026`
+### Wingify &nbsp; `Sep 2024 – Mar 2025`
+
 **Software Engineer** · Delhi, India
 
-> Led **Insights-Interconnectivity** — designed the full feature from scratch connecting A/B testing with session recordings, funnels & metrics
+> Developed and shipped new product features across a microservices architecture, optimizing for low latency and high throughput.
 
-- 🔗 Users gained **5× more actionable insights** from experiments
-- ⚙️ Built complete backend for cross-sell & upsell flows
-- 📧 **Salesforce integration** for auto task creation (activations, free trials)
-- 🔴 **Redis-backend email workflow** for one-click activations
+- ⚙️ Engineered a **distributed server workflow** using Google Cloud **Pub/Sub** for scalable event-driven communication.
+- 📊 Leveraged **GCP Cloud Logging (Stackdriver)** to monitor, trace, and debug production services across multiple environments.
+- 🚀 Streamlined software delivery using **Jenkins CI/CD** pipelines and **Bitbucket** PR workflows with condition-based build execution.
+- 🔍 Performed advanced debugging using **Chrome DevTools**, tracing event lifecycles, inspecting the **DOM/Shadow DOM**, and analyzing cross-environment execution flows.
+
+**Technologies:** Java, Go, Spring Boot, Redis, Google Cloud Platform (GCP), Google Cloud Storage (GCS), Docker, Jenkins, Bitbucket, CI/CD
 
 </td>
 <td width="50%">
 
-### Lawvriksh &nbsp; `Jan 2025 – April 2025`
-**Frontend Developer** · Remote
+### Caplix Technologies &nbsp; `June 2025 – July 2026`
 
-> Built an AI-powered rich-text blog editor using LLMs + FAISS vector search that serves real-time SEO, compliance & plagiarism scores
+**Software Development Engineer I** · Pune, India
 
-- 🧠 **FAISS + Kanoon API** for vector similarity search on legal data
-- 🚀 Optimized to **<2.5s TTI** & **60 FPS** via Web Workers + lazy loading
-- 📊 Serving **10,000+ users** with automated legal compliance suggestions
-- 🔧 Stack: Next.js, FastAPI, RAG, GraphQL, TipTap
+> Built AI-powered legal-tech features, scalable backend services, and responsive interfaces for a platform serving 10,000+ users.
+
+- ⚖️ Developed responsive UI components using **React, Next.js, Material UI, and Framer Motion**, integrating **GraphQL APIs** to deliver real-time compliance and content quality insights.
+- ✨ Designed and built a reusable **blogging/content library** with smooth micro-interactions and page transitions, enhancing the overall user experience.
+- 🤖 Developed **FastAPI** backend endpoints and data pipelines to clean and process unstructured legal data from the **Indian Kanoon API**, powering a **RAG-based recommendation engine**.
+- 📈 Improved recommendation accuracy by approximately **40%** through optimized data processing and retrieval using **FAISS (Vector DB)**.
+
+**Technologies:** React, Next.js, Material UI (MUI), Framer Motion, FastAPI (Python), GraphQL, FAISS (Vector DB), Web Workers
 
 </td>
 </tr>
